@@ -1,0 +1,5 @@
+# Generated with Atomizr v0.15.2 - https://github.com/idleberg/atomizr
+'.text.orgmode':
+  'tack checkbox unchecked external link':
+    'prefix': '-cl'
+    'body': '- [ ] [[${0:LINK}]]'

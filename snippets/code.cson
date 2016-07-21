@@ -1,0 +1,9 @@
+# Generated with Atomizr v0.15.2 - https://github.com/idleberg/atomizr
+'.text.orgmode':
+  'code block':
+    'prefix': 'code'
+    'body': """
+      [code]
+      $0
+      [/code]
+    """
